@@ -1,0 +1,3 @@
+route,location,category,severity,description,reporter,status,deadline
+North Campus Loop,Library north entrance,lighting,4,Path lamp is not working near the entrance,Facilities desk,open,2026-12-15
+Riverside Walk,Footbridge west ramp,accessibility,3,Ramp surface is uneven near the west landing,Anonymous,in_progress,
